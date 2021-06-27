@@ -1,181 +1,38 @@
-## Welcome to GitHub Pages
+# Welcome to the Timeline
 
-You can use the [editor on GitHub](https://github.com/arh12879/Timeline-Man-Made-Satellites/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome text, line above and below
 
-### Markdown
+---
 
-## Marked Down
+## The Late 1950's
 
-### Markdown
+## 1960
 
-## Marked Down
+### 1965
 
-### Markdown
+## 1970
 
-## Marked Down
+### 1975
 
-### Markdown
+## 1980
 
-## Marked Down
+### 1985
 
-### Markdown
+## 1990
 
-## Marked Down
+### 1995
 
-### Markdown
+## 2000
 
-## Marked Down
+### 2005
 
-### Markdown
+## 2010
 
-## Marked Down
+### 2015
 
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
-
-### Markdown
-
-## Marked Down
+## 2020
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
