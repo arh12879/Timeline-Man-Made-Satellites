@@ -2,15 +2,19 @@
 
 ---
 
-Welcome text, line above and below
+Welcome text, line above and below. Testing image link to Sputnik 1.
 
 ---
 
 ## The Late 1950's
+---
+![Sputnik1](/images/sputnik1.jpg)
 
 ## 1960
+---
 
 ### 1965
+---
 
 ## 1970
 
