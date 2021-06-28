@@ -4,13 +4,15 @@ Welcome text, line above . Testing image link to Sputnik 1.
 
 ## The Late 1950's
 ---
-###Sputnik 1
+
+### Sputnik 1
+
 ![Sputnik1](/images/sputnik1.jpg)
 
-**Launch Date:** 1957-10-04
-**Launch Agency/Nation:** U.S.S.R
-**Mass:** 83.6 kg
-Sputnik 1 was blah blah mission text here.
+**Launch Date:** 1957-10-04    
+**Launch Agency/Nation:** U.S.S.R    
+**Mass:** 83.6 kg    
+Sputnik 1 was blah blah mission text here.    
 
 ## 1960s
 ---
