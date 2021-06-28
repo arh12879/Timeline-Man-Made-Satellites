@@ -1,42 +1,44 @@
 # Welcome to the Timeline
-
 ---
-
-Welcome text, line above and below. Testing image link to Sputnik 1.
-
----
+Welcome text, line above . Testing image link to Sputnik 1.
 
 ## The Late 1950's
 ---
+###Sputnik 1
 ![Sputnik1](/images/sputnik1.jpg)
 
-## 1960
+**Launch Date:** 1957-10-04
+**Launch Agency/Nation:** U.S.S.R
+**Mass:** 83.6 kg
+Sputnik 1 was blah blah mission text here.
+
+## 1960s
 ---
 
-### 1965
+
+## 1970s
 ---
 
-## 1970
 
-### 1975
+## 1980s
+---
 
-## 1980
 
-### 1985
+## 1990s
+---
 
-## 1990
 
-### 1995
+## 2000s
+---
 
-## 2000
 
-### 2005
+## 2010s
+---
 
-## 2010
+## 2020 and beyond
+---
 
-### 2015
 
-## 2020
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
