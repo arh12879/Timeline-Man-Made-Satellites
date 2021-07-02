@@ -22,7 +22,7 @@ I hope you find the timeline enjoyable and informative.
 **Launch Agency/Nation:** USSR
 
 **Mass:** 83.6 kg    
-Sputnik was the first
+Sputnik 1 was the first artificial satellite launched into orbit by humans. A monumental achievement for the Soviet Union (both from a technological and a propaganda standpoint), the launch of Sputnik 1 kicked off what's known as the Space Race. The United States feared being left at a technological disadvantage if they did not make commensurate gains in spaceflight. NASA was formed just a year later to coordinate these efforts.
 ---
 
 **Explorer 1**
