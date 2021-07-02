@@ -7,9 +7,9 @@ Because this is Github, this is a living timeline. Anyone can contribute correct
 I hope you find the timeline enjoyable and informative.
 
 -Andrew Haley
-
----
-
+    
+    
+    
 ## The Late 1950's
 ---
 
@@ -27,7 +27,7 @@ Sputnik was the first
 
 **Explorer 1**
 
-![Sputnik1](/images/sputnik1.jpg)
+![Explorer1](/images/explorer1.gif)
 
 **Launch Date:** 1958-02-01    
 **Launch Agency/Nation:** DoD/USA    
@@ -50,7 +50,7 @@ Sputnik was the first
 
 **Astérix**
 
-![Sputnik1](/images/sputnik1.jpg)
+![Asterix](/images/asterix.jpg)
 
 **Launch Date:** 1965-11-26    
 **Launch Agency/Nation:** France  
