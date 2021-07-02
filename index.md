@@ -5,7 +5,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 ## The Late 1950's
 ---
 
-### Sputnik 1
+**Sputnik 1**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -15,7 +15,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Explorer 1
+**Explorer 1**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -28,9 +28,9 @@ Welcome text, line above . Testing image link to Sputnik 1.
 ## The 1960's
 ---
 
-### Mariner 2
+**Mariner 2**
 
-![Sputnik1](/images/sputnik1.jpg)
+![Mariner2](/images/mariner2.gif)
 
 **Launch Date:** 1962-08-27    
 **Launch Agency/Nation:** NASA/USA  
@@ -38,7 +38,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Astérix
+**Astérix**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -51,7 +51,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 ## The 1970's
 ---
 
-### Ohsumi
+**Ohsumi**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -61,7 +61,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Dong Fang Hong 1 (China 1)
+**Dong Fang Hong 1 (China 1)**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -71,9 +71,9 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Mariner 9
+**Mariner 9**
 
-![Sputnik1](/images/sputnik1.jpg)
+![Mariner9](/images/mariner9.jpg)
 
 **Launch Date:** 1971-05-30    
 **Launch Agency/Nation:** NASA/USA  
@@ -81,7 +81,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Prospero 1
+**Prospero 1**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -91,7 +91,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Pioneer 10
+**Pioneer 10**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -101,7 +101,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Pioneer 11
+**Pioneer 11**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -111,9 +111,9 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Mariner 10
+**Mariner 10**
 
-![Sputnik1](/images/sputnik1.jpg)
+![Mariner10](/images/mariner10.gif)
 
 **Launch Date:** 1973-11-03    
 **Launch Agency/Nation:** NASA/USA  
@@ -121,7 +121,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Venera 10
+**Venera 10**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -131,7 +131,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Voyager 2
+**Voyager 2**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -141,7 +141,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Voyager 1
+**Voyager 1**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -151,7 +151,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### CAT-1
+**CAT-1**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -164,7 +164,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 ## The 1980's
 ---
 
-### Rohini 1
+**Rohini 1**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -174,7 +174,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Ofeq 1
+**Ofeq 1**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -187,7 +187,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 ## The 1990's
 ---
 
-### Kosmos 2175
+**Kosmos 2175**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -200,9 +200,9 @@ Welcome text, line above . Testing image link to Sputnik 1.
 ## The New Millenium
 ---
 
-### New Horizons
+ **New Horizons**
 
-![Sputnik1](/images/sputnik1.jpg)
+![NewHorizons](/images/new_horizons.jpg)
 
 **Launch Date:** 2006-01-19    
 **Launch Agency/Nation:** NASA/USA  
@@ -210,7 +210,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Omid
+**Omid**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -220,7 +220,7 @@ Welcome text, line above . Testing image link to Sputnik 1.
 [BODY TEXT HERE].    
 ---
 
-### Kwangmyŏngsŏng-3 Unit 2
+**Kwangmyŏngsŏng-3 Unit 2**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
