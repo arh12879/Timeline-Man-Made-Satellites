@@ -2,28 +2,18 @@
 ---
 Welcome to a historical timeline of Humankind's exploratory satellites and their journey through our solar system. Because NASA catalogues over 300 man-made satellites in the Planetary Science mission category alone, this timeline focuses on first time achievements and major breakthroughs in space and planetary exploration missions. 
 
-Because this is Github, this is a living timeline. Anyone can contribute corrections or additions using the [Branches](https://guides.github.com/activities/hello-world/#branch) and [Pull Requests](https://guides.github.com/activities/hello-world/#pr) features common to all Github collaborative projects. You can read the documentation about Branches and Pull Requests in the links I've just provided. Every entry in this list follows a simple [markdown](https://guides.github.com/features/mastering-markdown/) formula which can be utilized if you wish to make a contribution. The markdown for the entries looks like this:
+Because this is Github, this is a living timeline. Anyone can contribute corrections or additions using the [Branches](https://guides.github.com/activities/hello-world/#branch) and [Pull Requests](https://guides.github.com/activities/hello-world/#pr) features common to all Github collaborative projects. You can read the documentation about Branches and Pull Requests in the links I've just provided. Every entry in this list follows a simple [markdown](https://guides.github.com/features/mastering-markdown/) formula which can be utilized if you wish to make a contribution. The markdown template for each entry [looks like this](https://github.com/arh12879/Timeline-Man-Made-Satellites/blob/gh-pages/satelliteMarkdownExample).
 
-```
-**"SATELLITE NAME"**
+I hope you find the timeline enjoyable and informative.
 
-!["SATELLITENAME"](/images/("imageName.jpg")
+-Andrew Haley
 
-**Launch Date:** "Year-Month-Day"
-
-**Launch Agency/Nation:** "Agency/Nation"
-
-**Mass:** "Weight of satellite in kg"
-
-"DESCRIPTION TEXT"    
 ---
-
-```
 
 ## The Late 1950's
 ---
 
-#### Sputnik 1
+**Sputnik 1**
 
 ![Sputnik1](/images/sputnik1.jpg)
 
