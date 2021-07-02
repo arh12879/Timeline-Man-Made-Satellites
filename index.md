@@ -23,7 +23,7 @@ Because this is Github, this is a living timeline. Anyone can contribute correct
 ## The Late 1950's
 ---
 
-###### Sputnik 1
+##### Sputnik 1
 
 ![Sputnik1](/images/sputnik1.jpg)
 
@@ -33,7 +33,7 @@ Because this is Github, this is a living timeline. Anyone can contribute correct
 
 **Mass:** 83.6 kg
 
-[BODY TEXT HERE].
+BODY TEXT HERE
 ---
 
 **Explorer 1**
