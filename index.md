@@ -130,17 +130,21 @@ Prospero 1, also known as X-3 or Black Arrow, is the United Kingdom's first sate
 
 **Pioneer 10**
 
-![Sputnik1](/images/sputnik1.jpg)
+![Pioneer10](/images/pioneer10.jpg)
 
 **Launch Date:** 1972-03-03    
+
 **Launch Agency/Nation:** NASA/USA  
+
 **Mass:** 258 kg    
-[BODY TEXT HERE].    
+
+j    
+
 ---
 
 **Pioneer 11**
 
-![Sputnik1](/images/sputnik1.jpg)
+![Pioneer11](/images/pioneer11.jpg)
 
 **Launch Date:** 1973-04-06    
 **Launch Agency/Nation:** NASA/USA  
@@ -218,20 +222,8 @@ Prospero 1, also known as X-3 or Black Arrow, is the United Kingdom's first sate
 **Launch Date:** 1988-09-19    
 **Launch Agency/Nation:** ISA/Israel  
 **Mass:** 157 kg    
-[BODY TEXT HERE].    
----
+[BODY TEXT HERE].   
 
-## The 1990's
----
-
-**Kosmos 2175**
-
-![Sputnik1](/images/sputnik1.jpg)
-
-**Launch Date:** 1992-01-21    
-**Launch Agency/Nation:** Russia  
-**Mass:** 6600 kg    
-[BODY TEXT HERE].    
 ---
 
 ## The New Millenium
@@ -251,25 +243,6 @@ New Horizons is the first probe designed specifically to fly by Pluto and its mo
 
 ---
 
-**Omid**
-
-![Sputnik1](/images/sputnik1.jpg)
-
-**Launch Date:** 2009-02-02    
-**Launch Agency/Nation:** ISA/Iran  
-**Mass:** 27 kg    
-[BODY TEXT HERE].    
----
-
-**Kwangmyŏngsŏng-3 Unit 2**
-
-![Sputnik1](/images/sputnik1.jpg)
-
-**Launch Date:** 2012-12-12    
-**Launch Agency/Nation:** North Korea  
-**Mass:** 100 kg    
-[BODY TEXT HERE].    
----
 
 
 ### Image Sources
@@ -289,12 +262,22 @@ New Horizons is the first probe designed specifically to fly by Pluto and its mo
 
 [Prospero 1](https://amsat-uk.org/tag/prospero/)
 
-[]()
+[Pioneer 10](https://solarsystem.nasa.gov/news/340/10-things-pioneer-days/)
 
-[]()
+[Pioneer 11](https://solarsystem.nasa.gov/news/340/10-things-pioneer-days/)
 
-[]()
+[Mariner 10](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1973-085A)
 
-[]()
+[Venera 10](https://space.skyrocket.de/doc_sdat/venera-4v1.htm)
 
-[]()
+[Voyager 2](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1977-076A)
+
+[Voyager 1](https://www.nasa.gov/mission_pages/voyager/multimedia/pia14113.jpg.html)
+
+[CAT-1]()
+
+[Rohini 1]()
+
+[Ofeq 1]()
+
+[New Horizons](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2006-001A)
