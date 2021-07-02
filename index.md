@@ -74,7 +74,7 @@ Astérix, also known as A-1, was the first satellite launched by a nation that w
 
 **Ohsumi**
 
-![Ohsumi](/images/ohsumi.jpg)
+![Ohsumi](/images/Ohsumi.jpg)
 
 **Launch Date:** 1970-02-11    
 
