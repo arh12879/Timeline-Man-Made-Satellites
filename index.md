@@ -208,13 +208,13 @@ The Voyager spacecrafts were both charged with exploring the furthest planets of
 
 **Mass:** 721.9 kg    
 
-Voyager 1 holds the distinction of being the farthest-traveled and fastest-moving human-made object in history. It has overtaken Pioneer 10 in distance, despite launching five years later. Like Voyager 2, Voyager 1 also made fly bys of Jupiter and Saturn. Both of the Voyager space probes bear an identical gold-plated phonograph record. The record contains both images and sounds of Earth, including such things as images of human portraits, food, architecture, insects, animals, and more. The recording bears sounds such as bird song, whale song, the sounds of waves and thunder, human greetings in 55 languages, laughter, music, and more.    
+Voyager 1 holds the distinction of being the farthest-traveled and fastest-moving human-made object in history. It has overtaken Pioneer 10 in distance, despite launching five years later. Like Voyager 2, Voyager 1 also made fly bys of Jupiter and Saturn. Both of the Voyager space probes bear an identical gold-plated phonograph record. The record contains both images and sounds of Earth, including such things as images of human portraits, food, architecture, insects, animals, and more. The recording bears sounds such as bird song, whale song, the sounds of waves and thunder, human greetings in 55 languages, laughter, music, and more.   
 
 ---
 
 **CAT-1**
 
-![Sputnik1](/images/sputnik1.jpg)
+![CAT1](/images/cat1.jpg)
 
 **Launch Date:** 1979-12-24    
 
@@ -222,7 +222,7 @@ Voyager 1 holds the distinction of being the farthest-traveled and fastest-movin
 
 **Mass:** 1602 kg    
 
-g    
+The CAT-1, or Technological Capsule 1, was a diagnostic satellite launched by the European Space Agency in the late 1970's for the purpose of testing their boosters. It holds the distinction of being the first orbital satellite launched by the ESA.   
 
 
 ## The 1980's
@@ -230,7 +230,7 @@ g
 
 **Rohini 1**
 
-![Sputnik1](/images/sputnik1.jpg)
+![Rohini1](/images/rs1.jpg)
 
 **Launch Date:** 1980-07-18    
 
@@ -238,13 +238,13 @@ g
 
 **Mass:** 35 kg    
 
-g    
+The Rohini 1, or RS-1, was the first satellite launched by India. It was equipped with a sun sensor, a magnetometer, and temperature sensors. Rohini 1 made India the seventh nation to achieve putting their own satellite in orbit.
 
 ---
 
 **Ofeq 1**
 
-![Sputnik1](/images/sputnik1.jpg)
+![Ofeq1](/images/ofeq1.jpg)
 
 **Launch Date:** 1988-09-19    
 
@@ -252,7 +252,7 @@ g
 
 **Mass:** 157 kg    
 
-g   
+The Israel Space Agency's successful orbital insertion of Ofeq 1, also called Horizon 1, granted Israel the honor of being the eigth nation to place a satellite into orbit. Ofeq 1 was encased in solar panels that could generate more energy than it consumed. Its full technological suite was not disclosed.
 
 
 ## The New Millenium
@@ -304,10 +304,10 @@ New Horizons is the first probe designed specifically to fly by Pluto and its mo
 
 [Voyager 1](https://www.nasa.gov/mission_pages/voyager/multimedia/pia14113.jpg.html)
 
-[CAT-1]()
+[CAT-1](https://space.skyrocket.de/doc_sdat/cat-1.htm)
 
-[Rohini 1]()
+[Rohini 1](https://www.isro.gov.in/Spacecraft/rs-1-1)
 
-[Ofeq 1]()
+[Ofeq 1](https://space.skyrocket.de/doc_sdat/ofeq-1.htm)
 
 [New Horizons](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2006-001A)
